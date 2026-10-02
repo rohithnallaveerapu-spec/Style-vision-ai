@@ -1,0 +1,10 @@
+{
+  "name": "Remix StyleVision AI",
+  "description": "An AI-powered luxury personal fashion and styling platform featuring bespoke outfit generation, 3D avatar try-on, biometric posture analysis, color palette curation, and a designer marketplace.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
